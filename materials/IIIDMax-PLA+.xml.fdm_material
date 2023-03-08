@@ -26,8 +26,8 @@
     <setting key="retraction amount">3.5</setting>
     <setting key="retraction speed">50</setting>
     <setting key="standby temperature">180</setting>
-    <cura:setting key="material_flow">100.0</cura:setting>
-    <cura:setting key="retraction_extrusion_window">7.0</cura:setting>
+    <cura:setting key="material_flow">99.0</cura:setting>
+    <cura:setting key="retraction_extrusion_window">7.5</cura:setting>
     <machine>
       <machine_identifier manufacturer="CreawsomeMod" product="creality_base" />
       <setting key="print temperature">200.0</setting>

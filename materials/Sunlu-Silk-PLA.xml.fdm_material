@@ -3,13 +3,13 @@
   <metadata>
     <name>
       <brand>Sunlu</brand>
-      <material>PLA</material>
+      <material>PETG</material>
       <color>Generic</color>
-      <label>Silk PLA</label>
+      <label>PETG</label>
     </name>
     <version>8</version>
-    <GUID>65c3e3b2-f122-41d9-a9b5-c528261ca2cb</GUID>
-    <color_code>#874AF9</color_code>
+    <GUID>893505de-c090-42ee-8892-4467fab10af2</GUID>
+    <color_code>#5A5A5A</color_code>
     <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
     <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
   </metadata>
@@ -18,25 +18,26 @@
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">200</setting>
-    <setting key="heated bed temperature">55.0</setting>
-    <setting key="standby temperature">150.0</setting>
+    <setting key="print temperature">225.0</setting>
+    <setting key="heated bed temperature">80.0</setting>
+    <setting key="standby temperature">200.0</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>
     <setting key="build volume temperature">28</setting>
-    <setting key="print cooling">75.0</setting>
-    <setting key="retraction speed">30</setting>
-    <setting key="retraction amount">3</setting>
-    <cura:setting key="material_flow">104</cura:setting>
-    <cura:setting key="retraction_extrusion_window">6</cura:setting>
+    <setting key="print cooling">25.0</setting>
+    <setting key="retraction amount">6.0</setting>
+    <setting key="retraction speed">60.0</setting>
+    <cura:setting key="cool_fan_full_at_height">1</cura:setting>
+    <cura:setting key="retraction_extrusion_window">9</cura:setting>
     <machine>
       <machine_identifier manufacturer="CreawsomeMod" product="creality_base" />
+      <setting key="print temperature">200</setting>
       <setting key="heated bed temperature">50</setting>
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
-      <setting key="retraction speed">45</setting>
       <setting key="retraction amount">5</setting>
-      <cura:setting key="material_flow">98.0</cura:setting>
+      <setting key="retraction speed">45</setting>
+      <cura:setting key="retraction_extrusion_window">6</cura:setting>
     </machine>
   </settings>
 </fdmmaterial>
