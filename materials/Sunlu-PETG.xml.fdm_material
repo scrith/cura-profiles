@@ -18,17 +18,17 @@
     <diameter>1.75</diameter>
   </properties>
   <settings>
-    <setting key="print temperature">230.0</setting>
+    <setting key="print temperature">245.0</setting>
     <setting key="heated bed temperature">80.0</setting>
     <setting key="standby temperature">200.0</setting>
     <setting key="adhesion tendency">0</setting>
     <setting key="surface energy">100</setting>
     <setting key="build volume temperature">28</setting>
     <setting key="print cooling">25.0</setting>
-    <setting key="retraction amount">6.0</setting>
-    <setting key="retraction speed">60.0</setting>
+    <setting key="retraction amount">2.8</setting>
+    <setting key="retraction speed">45.0</setting>
     <cura:setting key="cool_fan_full_at_height">1</cura:setting>
-    <cura:setting key="retraction_extrusion_window">9</cura:setting>
+    <cura:setting key="retraction_extrusion_window">6.0</cura:setting>
     <cura:setting key="material_flow">99.0</cura:setting>
     <machine>
       <machine_identifier manufacturer="CreawsomeMod" product="creality_base" />
@@ -37,8 +37,6 @@
       <setting key="standby temperature">180</setting>
       <setting key="print cooling">100</setting>
       <setting key="retraction amount">5</setting>
-      <setting key="retraction speed">45</setting>
-      <cura:setting key="retraction_extrusion_window">6</cura:setting>
     </machine>
   </settings>
 </fdmmaterial>

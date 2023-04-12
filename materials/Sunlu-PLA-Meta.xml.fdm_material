@@ -25,7 +25,7 @@
     <setting key="standby temperature">180.0</setting>
     <setting key="retraction amount">3.5</setting>
     <setting key="retraction speed">30</setting>
-    <setting key="print temperature">180.0</setting>
+    <setting key="print temperature">190.0</setting>
     <cura:setting key="material_flow">98</cura:setting>
     <cura:setting key="retraction_extrusion_window">6</cura:setting>
     <machine>
