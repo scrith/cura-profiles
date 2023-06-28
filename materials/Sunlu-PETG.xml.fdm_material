@@ -25,7 +25,7 @@
     <setting key="surface energy">100</setting>
     <setting key="build volume temperature">28</setting>
     <setting key="print cooling">25.0</setting>
-    <setting key="retraction amount">2.8</setting>
+    <setting key="retraction amount">3.8</setting>
     <setting key="retraction speed">45.0</setting>
     <cura:setting key="cool_fan_full_at_height">1</cura:setting>
     <cura:setting key="retraction_extrusion_window">6.0</cura:setting>
