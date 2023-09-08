@@ -1,0 +1,5 @@
+[base_name] \([machine_nozzle_size]mm\) [print_time] [material_weight]g [material] \([layer_height]x[infill_sparse_density]% r[retraction_amount] [material_print_temperature]-[material_bed_temperature] [speed_print]mms\)
+
+yields:
+
+benchy-fast (0.4mm) 0104 12g PLA (0.2x15.0% r1.5 210-60.0 100.0mms).gcode
