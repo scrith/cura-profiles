@@ -3,11 +3,11 @@ M221 S100 ; Reset Extrude factor override percentage to default (100%)
 
 G91 ;Relative positioning
 
-G1 Z15 ;Raise Z
+G1 Z15 F2000 ;Raise Z
 
 G90 ;Absolute positioning
 
-G1 X0 Y{machine_depth} ;Present print
+G1 X0 Y{machine_depth} F3000 ;Present print
 
 M106 S0 ;Turn-off fan
 M104 S0 ;Turn-off hotend
